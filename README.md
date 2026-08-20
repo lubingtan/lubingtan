@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=LuBingtan)
-- 👋 Hi, I’m @LuBingtan
+- 👋 Hi, I’m Bingtan
 - 👀 I’m interested in Cloud/HPC/AI 
 
 ![Metrics](github-metrics.svg)
